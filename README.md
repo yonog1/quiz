@@ -1,3 +1,6 @@
+![image](https://github.com/yonog1/quiz/assets/38842103/59542f20-fe85-4fa4-9f5f-8cce7211c89b)
+Trivia card game made with Open Trivia DB (OpendTDB) and React JS on the front end.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
